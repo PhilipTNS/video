@@ -1,0 +1,12 @@
+#ih{
+    position: fixed;
+    z-index: -1;
+    object-fit: cover;
+}
+h1{
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    color: white;
+
+}
