@@ -10,3 +10,20 @@ h1{
     color: white;
 
 }
+#vidbtn{
+    background-color: white;
+    animation: breath 8s ease infinite none running;
+    
+        
+    
+}
+@keyframes breath {
+        0%,
+        25%,
+        50% {
+            background-color: #54e316;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+        }
+    }
